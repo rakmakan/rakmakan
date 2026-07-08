@@ -9,6 +9,7 @@ I work on large language models (LLMs), natural language processing, and applied
 - 📍 Toronto, Canada
 - 💼 LinkedIn: [in/rakshit-makan](https://www.linkedin.com/in/rakshit-makan)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rakshit-makan)
+- 🌐 Website: [rakmakan.github.io](https://rakmakan.github.io)
 
 ## 🛠️ What I work with
 
