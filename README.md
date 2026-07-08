@@ -28,3 +28,5 @@ I care about turning research-grade NLP and generative AI into things people act
 ---
 
 *Rakshit Makan — Generative AI / NLP / Deep Learning Engineer, Toronto.*
+
+<!-- profile -->
