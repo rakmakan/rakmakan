@@ -19,7 +19,6 @@ I work on large language models (LLMs), natural language processing, and applied
 - **[Clustering-with-BERT](https://github.com/rakmakan/Clustering-with-BERT)** — Document clustering models built on BERT to efficiently process and organize large corpora of publications. ⭐ 17
 - **[LLM_Projects](https://github.com/rakmakan/LLM_Projects)** — A modular Python application for machine learning model training and inference, supporting both Hugging Face and ONNX model formats.
 - **[claude-job-hunter](https://github.com/rakmakan/claude-job-hunter)** — A Claude Code plugin for end-to-end job application automation: brainstorm, discover, filter, tailor resumes, and auto-apply.
-- **[cardinal](https://github.com/rakmakan/cardinal)** — A privacy-first credit card offer discovery and recommendation platform.
 
 ## 📊 A bit more
 
