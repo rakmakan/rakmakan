@@ -1,6 +1,6 @@
 # Hi, I'm Rakshit Makan 👋
 
-**Generative AI Specialist** based in Toronto, Canada — 6+ years building in **AI, NLP, and Deep Learning**.
+**Generative AI Specialist** based in Toronto, Canada — 8+ years building in **AI, NLP, and Deep Learning**.
 
 I work on large language models (LLMs), natural language processing, and applied machine learning — from research and fine-tuning transformers to shipping production AI systems. Currently building at **Behavox**.
 
