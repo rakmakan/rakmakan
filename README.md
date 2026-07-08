@@ -17,6 +17,7 @@ I work on large language models (LLMs), natural language processing, and applied
 
 ## 🚀 Featured Projects
 
+- **[HITL Document Classification](https://github.com/rakmakan/HITL-Document-Classification)** — Reference implementation of my master's thesis (Dalhousie University, 2022): a human-in-the-loop system for classifying multi-page scanned administrative documents, using a two-step Sentence-BERT classifier with incremental retraining. 🎓
 - **[Clustering-with-BERT](https://github.com/rakmakan/Clustering-with-BERT)** — Document clustering models built on BERT to efficiently process and organize large corpora of publications. ⭐ 17
 - **[LLM_Projects](https://github.com/rakmakan/LLM_Projects)** — A modular Python application for machine learning model training and inference, supporting both Hugging Face and ONNX model formats.
 - **[claude-job-hunter](https://github.com/rakmakan/claude-job-hunter)** — A Claude Code plugin for end-to-end job application automation: brainstorm, discover, filter, tailor resumes, and auto-apply.
