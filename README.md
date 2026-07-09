@@ -25,6 +25,7 @@ I work on large language models (LLMs), natural language processing, and applied
 ## ✍️ Writing
 
 - **[I Turned My Job Search Into a Pipeline (and Let an Agent Run It)](https://rakshitmakan.medium.com/i-turned-my-job-search-into-a-pipeline-and-let-an-agent-run-it-e5331894f9e9)** — how I built the `claude-job-hunter` plugin, and what applying to 60 roles in one night taught me about agents.
+- **[Anatomy of a Claude Code Plugin: How Claude Job Hunter Works Under the Hood](https://rakshitmakan.medium.com/anatomy-of-a-claude-code-plugin-how-claude-job-hunter-works-under-the-hood-922d5825f33a)** — the architecture behind it: skills, hooks, MCP, and a files-as-state pipeline.
 
 ## 📊 A bit more
 
